@@ -1,0 +1,19 @@
+/*body{
+    background-image: url("white2.jpg");
+    background-repeat: no-repeat;
+    background-size:cover;
+    background-position: center;
+}*/
+h1{
+	margin:2%,10%;
+}
+#head{
+	width:100%;
+	background-color:#5B2C6F;
+	color:white;
+	padding:1%;
+	margin:auto;
+	text-align:center;
+	font-family:"Comic Sans MS", cursive, sans-serif;
+	font-size:1.3em;
+}
